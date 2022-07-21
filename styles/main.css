@@ -1,0 +1,33 @@
+body{
+background-color: rgb(129, 229, 236);
+max-width: 70%;
+margin: auto;
+box-shadow: 0 0 6px 3px rgb(18, 172, 223);
+padding: 5px 15px;
+}
+
+ .UZBEKISTAN{
+    color: rgb(231, 4, 4);
+ }
+ nav > ul > li{
+    list-style-type: none;
+    float: right;
+    margin-right: 30px;
+ }
+
+ nav > ul > li:hover{
+    background: rgb(224, 248, 4);
+    border-radius: 30px;
+    color: rgb(6, 43, 253) ;
+    padding: 2px;
+    opacity: 0.5;
+    transition: all 0.5s ease;
+    cursor: pointer;
+
+ }
+ nav a {
+    text-decoration: none;
+    color: inherit;
+ }
+    
+
